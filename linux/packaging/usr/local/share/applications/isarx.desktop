@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=0.0.0
+Name=isarx
+GenericName=General Application
+Exec=isarx %U
+Categories=Music;Media;
+Keywords=Hello;World;Test;Application;
+StartupNotify=true
