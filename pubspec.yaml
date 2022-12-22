@@ -2,7 +2,7 @@ name: isarx
 description: A sample command-line application.
 version: 0.0.0
 homepage: https://youtube.com/@azkadev
-
+repository: https://github.com/azkadev/isarx.git
 environment:
   sdk: '>=2.18.5 <3.0.0'
 
